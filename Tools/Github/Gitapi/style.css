@@ -1,4 +1,4 @@
-button{
+button, input{
     background-color: #00FF8C;
     border: solid #000000;
     border-radius: 30px;
@@ -6,4 +6,10 @@ button{
 }
 body{
 background-color: #3695ba;
+}
+
+img{
+border-radius: 108px 108px 108px 108px;
+-moz-border-radius: 108px 108px 108px 108px;
+-webkit-border-radius: 108px 108px 108px 108px;
 }
