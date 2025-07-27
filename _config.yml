@@ -8,3 +8,4 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zorrofoxline.github.io" # the base hostname & protocol for your site
 twitter_username: null
 github_username:  zorrofoxline
+permalink: /404.html
