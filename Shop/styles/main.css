@@ -1,0 +1,22 @@
+.container {
+  position: relative; /* Necesario para el posicionamiento absoluto */
+  background-color: #32BB98;
+}
+
+.producto{
+  float: left;
+  background-color: #32BB98;
+}
+body{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    background-color:#59A3BD;!important
+}
+p, h1{
+    padding: 0;
+    margin: 0;
+}
